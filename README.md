@@ -9,7 +9,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 ## 🧰 EQUIPMENTS REQUIRED
 - Power supply  
-- Patch chords  
+- Patch chords   
 - 1-meter fiber optic cable  
 - Digital Multimeter (DMM)  
 
